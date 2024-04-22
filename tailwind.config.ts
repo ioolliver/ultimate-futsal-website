@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         "uf-background": "#05061f",
+        "uf-background-2": "#0D1331",
         "uf-primary": "#FF8706",
         "uf-secondary": "#1f308d",
         "uf-secondary-2": "#3F4D9B",
