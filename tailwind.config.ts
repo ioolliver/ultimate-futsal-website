@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         "uf-background": "#05061f",
         "uf-background-2": "#0D1331",
+        "uf-background-3": "#1e2442",
         "uf-primary": "#FF8706",
         "uf-secondary": "#1f308d",
         "uf-secondary-2": "#3F4D9B",
